@@ -1,5 +1,5 @@
 {
-  "animals": [
+  "animalsArray": [
     {
       "id": "0",
       "name": "Spindle",
@@ -101,52 +101,17 @@
       ]
     },
     {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
+      "name": "shitbag",
+      "species": "gorgu",
+      "diet": "carnivore",
       "personalityTraits": [
-        "hungry"
+        "hungry",
+        "zany",
+        "anxious",
+        "loving",
+        "goofy"
       ],
       "id": "10"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "11"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "12"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "omnivore",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "13"
-    },
-    {
-      "id": "14"
-    },
-    {
-      "name": "Larry",
-      "species": "lemur",
-      "diet": "shit",
-      "personalityTraits": [
-        "hungry"
-      ],
-      "id": "15"
     }
   ]
 }
